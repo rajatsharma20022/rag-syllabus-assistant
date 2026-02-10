@@ -123,7 +123,7 @@ Live Chat Output
 
 **Live Demo Link:** [Add Your Streamlit App URL Here]
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/rajatsharma20022/rag-syllabus-assistant
 
 ---
 
