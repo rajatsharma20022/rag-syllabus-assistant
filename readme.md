@@ -121,7 +121,7 @@ Live Chat Output
 
 ## 4. Important Links
 
-**Live Demo Link:** [Add Your Streamlit App URL Here]
+**Live Demo Link:** https://pdfanswermyquestion.streamlit.app/
 
 **GitHub Repository:** https://github.com/rajatsharma20022/rag-syllabus-assistant
 
