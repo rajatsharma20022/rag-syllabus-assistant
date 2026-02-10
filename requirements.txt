@@ -1,0 +1,7 @@
+streamlit
+supabase
+sentence-transformers
+pypdf
+requests
+numpy
+groq
